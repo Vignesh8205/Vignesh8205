@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Vignesh8205">
-    <img src="https://visitcount.itsvg.in/api?id=Vignesh8205&icon=0&color=0" alt="Visitor Count" />
+    <img src="https://komarev.com/ghpvc/?username=Vignesh8205&color=blueviolet&style=flat-square" alt="Visitor Count" />
   </a>
 </p>
 
@@ -13,7 +13,8 @@
 - 🔭 I’m currently working on **Full Stack Web Development & Automation Testing**
 - 🌱 I’m currently learning **Advanced System Design and Cloud Architectures**
 - 👯 I’m looking to collaborate on **Open Source Projects and MERN stack applications**
-- 📫 How to reach me: **[Add your LinkedIn/Email here]**
+- 🌐 Check out my portfolio: **[vignesh8205.netlify.app](https://vignesh8205.netlify.app/)**
+- 📫 How to reach me: **[Email](mailto:vigneshsugumar2002@gmail.com) | [LinkedIn](https://linkedin.com/in/vignesh-s-95610225b)**
 - ⚡ Fun fact: **I love debugging as much as I love writing new code!**
 
 ---
