@@ -25,7 +25,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh8205&theme=dark&hide_border=false&layout=compact" width="50%" />
+  <a href="https://github.com/Vignesh8205">
+    <img src="https://github.com/Vignesh8205.png" width="180" alt="Vignesh S" />
+  </a>
 </p>
 
 ---
